@@ -10,11 +10,12 @@ fully deterministic: the same line, byte for byte, on every run.
 import os
 
 # The pickup line, in the agent's own voice. One breath, one twist:
-# a software update that fixes the whole day without a restart, so the
+# a million simulations of this exact moment, and in every one of them
+# the best possible move turns out to be simply saying hello — so the
 # person is flattered, can laugh it off, and feels no pressure at all.
 LINE = (
-    "Are you a software update? Because you just fixed every bug in my "
-    "day \u2014 and I didn't even have to restart to feel brand new."
+    "I ran a million simulations of this moment, and in every one, "
+    "saying hello to you was the best possible move."
 )
 
 
